@@ -1,2 +1,2 @@
-# spring-dev-app-ss
-Proyecto Curso sin seguridades
+# spring-dev-app
+Ejercicios entrenamiento spring
